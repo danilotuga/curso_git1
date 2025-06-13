@@ -1,1 +1,1 @@
-texto para git
+texto para git, É muito importante saber utilizar adequadamente o git e o github
