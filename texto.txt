@@ -1,1 +1,3 @@
 texto para git, É muito importante saber utilizar adequadamente o git e o github
+
+realizei mais uma inserção para que eu faça o comando git commit texto.txt -m "Enviando a última funcionalidade"
