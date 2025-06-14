@@ -1,1 +1,4 @@
 testando o arquivo a.txt. nova mexida no arquivo. Isso é muito importe.
+git commit -a -m "Alterações tarefa 552"
+
+Desenvolvendo nova funcionalidade
