@@ -1,1 +1,2 @@
-Era uma vez um teste
+Era uma vez um teste 
+fazendo teste com git stash
